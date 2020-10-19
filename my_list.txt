@@ -1,0 +1,5 @@
+"banana"
+"ice cream"
+"red lentils"
+"chicken stock"
+"apples"
